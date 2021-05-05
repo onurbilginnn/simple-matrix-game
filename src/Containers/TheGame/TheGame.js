@@ -5,7 +5,7 @@ import styles from './TheGame.module.css';
 
 const colors = ['#FFF07C', '#80FF72', '#7EE8FA', '#E58C8A', '#4A314D', '#8C271E'];
 const clickColors = {true: '#7DCE60', false: '#800E13'};
-const SECOND_LEVEL_POINT = 15;
+const SECOND_LEVEL_POINT = 100;
 
 const TheGame = () => {
    const clickedSound = new Audio(catchedSound);
