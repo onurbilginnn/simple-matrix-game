@@ -1,0 +1,5 @@
+.TableContainer {border-collapse: collapse;}
+.TableContainer td { width:40px; height:40px; border:2px solid #333 }
+.TableContainer:hover {
+    cursor: url("../../assets/cursors/thor.gif"), auto;
+}
